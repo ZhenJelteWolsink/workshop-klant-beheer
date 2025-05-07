@@ -27,4 +27,9 @@ class User extends Database {
 
     return parent::voerQueryUit($query);
   }  
+
+  public function searchUser($voornaam) {
+    $query = "SELECT * FROM customers WHERE voorNaam = :voornaam";
+    return parent::voerQueryUit($query, [':voornaam' => $voornaam]);
+  }
 }
