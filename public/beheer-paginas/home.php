@@ -10,11 +10,11 @@
 <body>
     
 <div class="sidenav">
-    <a href="home.html"><i class="fa fa-home" aria-hidden="true"></i> Home</a>
+    <a href="home.php"><i class="fa fa-home" aria-hidden="true"></i> Home</a>
     <hr>
-    <a href="klanten.html"><i class="fa fa-users" aria-hidden="true"></i> Klanten</a>
-    <a href="afspraken.html"><i class="fa fa-calendar" aria-hidden="true"></i> Afspraken</a>
-    <a href="facturen.html"><i class="fa fa-file-text-o" aria-hidden="true"></i> Facturen</a>
+    <a href="klanten.php"><i class="fa fa-users" aria-hidden="true"></i> Klanten</a>
+    <a href="afspraken.php"><i class="fa fa-calendar" aria-hidden="true"></i> Afspraken</a>
+    <a href="facturen.php"><i class="fa fa-file-text-o" aria-hidden="true"></i> Facturen</a>
     <div class="gebruiker">
       <hr>
       <i class="fa fa-user-circle-o" aria-hidden="true"></i>
